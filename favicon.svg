@@ -1,0 +1,11 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+    path { fill: #191B1F; }
+    @media (prefers-color-scheme: dark) {
+      path { fill: #ffffff; }
+    }
+  </style>
+<path d="M8 7.06348L15 6.62598V8.37092L8 7.93848L1 8.36587V6.62598L8 7.06348Z" fill="#191B1F"/>
+<path d="M8.37667 7.28099L12.2556 13.1244L10.7444 13.9969L7.6189 7.71849L3.74877 1.87001L5.25555 1.00006L8.37667 7.28099Z" fill="#191B1F"/>
+<path d="M8.37667 7.71592L5.25555 13.9969L3.74439 13.1244L7.6189 7.27842L10.7488 1.00255L12.2556 1.8725L8.37667 7.71592Z" fill="#191B1F"/>
+</svg>
